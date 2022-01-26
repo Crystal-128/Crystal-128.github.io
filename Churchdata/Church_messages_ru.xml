@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="ru_project_title"><![CDATA[church]]></data>
+
+
+
+  <data name="ru_pano18_title"><![CDATA[PANO_20220125_141230]]></data>
+
+
+  <data name="ru_pano10_title"><![CDATA[PANO_20220125_133656]]></data>
+
+
+  <data name="ru_pano12_title"><![CDATA[PANO_20220125_134546]]></data>
+
+
+  <data name="ru_pano13_title"><![CDATA[PANO_20220125_134735]]></data>
+
+
+  <data name="ru_pano14_title"><![CDATA[PANO_20220125_135111]]></data>
+
+
+  <data name="ru_pano15_title"><![CDATA[PANO_20220125_140020]]></data>
+
+
+  <data name="ru_pano16_title"><![CDATA[PANO_20220125_140508]]></data>
+
+
+  <data name="ru_pano17_title"><![CDATA[PANO_20220125_141015]]></data>
+
+
+  <data name="ru_pano19_title"><![CDATA[PANO_20220125_141615]]></data>
+
+
+  <data name="ru_pano20_title"><![CDATA[PANO_20220125_142340]]></data>
+
+
+  <data name="ru_pano21_title"><![CDATA[PANO_20220125_142519]]></data>
+
+
+  <data name="ru_pano22_title"><![CDATA[PANO_20220125_142720]]></data>
+
+
+
+
+	<data name="ru_project_floor_title"><![CDATA[church]]></data>
+	<data name="ru_spotmap113_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap187_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap188_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap189_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap190_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap191_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap192_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap193_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap194_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap195_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap196_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap197_tooltip"><![CDATA[]]></data>
+
+
+  <data name="ru_floorPlanmenu_label"><![CDATA[Select a floor plan]]></data>
+
+
+  <data name="ru_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="ru_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="ru_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="ru_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="ru_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="ru_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="ru_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="ru_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="ru_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="ru_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="ru_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="ru_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="ru_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="ru_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="ru_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="ru_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="ru_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="ru_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="ru_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="ru_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="ru_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="ru_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="ru_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="ru_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="ru_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="ru_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="ru_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="ru_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="ru_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="ru_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
